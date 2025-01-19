@@ -39,7 +39,7 @@ The Travel Vista Backend is a comprehensive backend solution designed to manage 
 
 ## Live Demo
 
-The backend server is hosted live at [Travel Vista Backend Demo](https://your-backend-link.com).
+The backend server is hosted live at [Travel Vista Backend Demo](https://travel-vista-new-version-server.vercel.app/).
 
 ---
 
