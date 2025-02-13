@@ -33,7 +33,7 @@ const loginUser = asyncHandler(async (req, res, next) => {
   sendResponse(res, {
     success: true,
     statusCode: 200,
-    message: "User logged in successfully",
+    message: "User Logged in Successfully",
     accessToken,
     refreshToken,
     data: user,
