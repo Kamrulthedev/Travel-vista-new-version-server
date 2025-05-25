@@ -15,7 +15,7 @@ app.use(express.static(path.join(__dirname, "..", "public")));
 app.use("/api", router);
 
 app.get("/", (req, res) => {
-  res.send("Travel Vista Server is Running!");
+  res.send("Hello Travel Vista Server is Running!");
 });
 
 app.use(globalErrorHandler);
